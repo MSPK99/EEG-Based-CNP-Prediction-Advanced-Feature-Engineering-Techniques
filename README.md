@@ -17,7 +17,7 @@ This project explores the application of advanced feature engineering techniques
 - [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
 - [License](#License)
-- [Contact Information](#contact-information)
+- [Contact](#contact)
 
 
 ## Introduction
