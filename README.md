@@ -227,7 +227,7 @@ Ensure you have Python 3.6+ installed on your system. You can download Python fr
 
 #### Clone the Repository:
 
-1. Clone this project repository to your local machine using `git clone <repository-url>`.
+1. Clone this project repository to your local machine using `git clone <[repository-url](https://github.com/MSPK99/EEG-Based-CNP-Prediction-Advanced-Feature-Engineering-Techniques/tree/main)>`.
 2. Note: Ensure you're extracting the feature set from "aiml_final_dependencies-main". You don't have to worry about this step as we already have 3 csv files with details that entails the .h5 information processable for the task.
 
 #### Navigate to the Project Directory:
