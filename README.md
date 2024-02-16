@@ -20,6 +20,12 @@ This project explores the application of advanced feature engineering techniques
 - [Contact Information](#contact-information)
 
 
+## Introduction
+This project delves into the application of feature engineering techniques to predict Central Neuropathic Pain (CNP) in individuals with Spinal Cord Injury (SCI) using EEG data. By employing various feature selection methods, we aim to enhance the predictive power of our machine learning models amidst the challenges posed by high-dimensional datasets.
+
+Leveraging a dataset recorded from a 48-electrode Electroencephalogram (EEG), our study showcases the crucial role of feature engineering in improving model accuracy and performance. Through this work, we highlight the transformative potential of carefully selected features in the domain of predictive modeling, especially in medical diagnostics and treatment planning.
+
+
 ## Dataset Description
 
 ### Overview
